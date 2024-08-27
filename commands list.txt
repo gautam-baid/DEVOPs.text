@@ -1,3 +1,0 @@
-git - to show commands
-git init - to create empty git repository
-cat>>(enter text) - to create text file in git (control+c command to exit the text mode for this command)
